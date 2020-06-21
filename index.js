@@ -2,7 +2,9 @@
 
 class Breakfast{
     constructor(food,drink){
-      
+        this.food=food
+        this.drink=drink
+        
     }
   
 }
@@ -10,7 +12,8 @@ class Breakfast{
 
 class Lunch{
     constructor(salad,soup,drink){
-      
+        this.salad
+        this.soup=soup
     }
   
 }
